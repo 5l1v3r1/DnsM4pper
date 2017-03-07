@@ -66,6 +66,8 @@ DNSBanner = """
 ────────███████████
 ───────█████
 ──────████
+
+Example > google.com
 """
 def DNSMAPPER():
 	try:
